@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navi1{
+    background-color:rgb(245, 235, 220);
+    border-bottom: 1px solid brown;
+    position:fixed;
+    z-index: 1;
+}
+#nav{
+    height:56px;
+    
+    width:960px;
+    /* border:solid */
+}
+#nav{
+    display: flex;
+    list-style-type: none;
+    margin-left: 30vh;
+}
+#ol-1{
+    width:565px;
+    display:flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: space-between;
+}
+#ol-2{
+   list-style-type: none;
+    display: flex;
+   margin-left: 40vh;
+   margin-top: 2vh;
+ }
+ #name{
+    font-size: 4.7vh;
+    font-weight: 900;
+    padding-top: 2vh;
+    font-family: "Lilita One", sans-serif;
+ }
+
+#user{
+    padding-right: 10px;
+    height:20px;
+    width:30px
+}
+#button2{
+    height:34px;
+    width:108px;
+    background-color: rgb(222, 14, 14);
+    color: rgb(245, 235, 220);
+    border :none ;
+    border-radius: 20px;
+    /* margin-top: 10px; */
+}

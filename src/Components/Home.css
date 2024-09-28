@@ -1,0 +1,46 @@
+#ph-1{
+   
+        font-family: "Lilita One", sans-serif;
+      font-size: 11vh;
+      font-weight: bolder;
+      color:#502314;
+}
+#sub{
+    background-color:#f5ebdc;
+    display: flex;
+    flex-wrap: wrap;
+}
+#part1{
+    height:449px;
+    width: 314px;
+    /* border: solid; */
+  background-color: #f5ebdc;
+  margin: 10vh 0vh 0vh 30vh
+}
+#but4,#but5{
+    height: 55px;
+    width: 286px;
+    font-size:18px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bolder;
+    border-radius: 20px;
+    
+}
+
+#but4{
+    background-color: red;
+    color:white;
+    border:none;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#but5{
+  color: red;
+  border: solid red 1px;
+  background-color: #f5ebdc;
+}
+#image1{
+    height:400px;
+    width: 628px;
+    margin-top: 7vh;
+}

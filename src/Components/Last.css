@@ -1,0 +1,88 @@
+#last{
+    background-color: #ebe2d3;
+    height:486px;
+    width:1263px;
+    
+}
+#imgl1{
+    height:370px;
+    width:377px;
+   position :absolute;
+   /* border:solid black; */
+   margin-left: 40vh;
+   margin-top: 8vh;
+}
+#last1{
+    position :relative;
+    margin-left:115vh;
+    padding-top: 10vh;
+  /* border:solid red; */
+  height:471px;
+  width:486px;
+}
+#lasth{
+    font-family: "Lilita One", sans-serif;
+    font-size: 11vh;
+    font-weight: bolder;
+    color:#502314;
+}
+#apple{
+    color: white;
+    font-size: 7vh;
+   
+}
+#buttonl1,#buttonl2{
+    background-color: black;
+    height:53px;
+    width:187px;
+    color :white;
+    border-radius: 5px;
+    border:none
+}
+#imgbut,#imgbut2{
+    height:53px;
+    width:187px;
+    border-radius: 5px;
+}
+#buttonl2{
+    margin-left: 3vh;
+}
+#paral{
+    /* border:solid red; */
+    margin-top: 10vh;
+    width:471px;
+    height:72px;
+    font-size: 1.1rem;
+    color:#502314;
+}
+#Footer{
+    background-color: rgb(80, 35, 20);
+    color:rgb(245, 235, 220);
+    height:56px;
+    width:1263px;
+}
+#lpara{
+    /* border:solid yellow; */
+    padding-top: 13px;
+   text-align: center;
+}
+#footer{
+    height:12vh;
+    background-color: #ebe2d3;
+   
+}
+#order{
+    list-style-type: none;
+    display: flex;
+   justify-content: space-around;
+  
+}
+.list{
+    height:12vh;
+    /* border:solid black; */
+    padding-top: 2vh;
+   
+}
+.font{
+    font-size: 5vh;
+}
